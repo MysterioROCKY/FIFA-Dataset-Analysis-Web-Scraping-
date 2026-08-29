@@ -1,6 +1,6 @@
 # FIFA Scout — Flask Dashboard
 
-A responsive football analytics dashboard built from a FIFA web-scraping notebook. It turns a notebook-based analysis into an interactive Flask website with player exploration, filtering, charts, wonderkids, and player comparison.
+A responsive football analytics dashboard built from a FIFA web-scraping notebook. It turns a Python Jupiter notebook-based analysis into an interactive Flask website with player exploration, filtering, charts, wonderkids, and player comparison.
 
 The deployed dashboard reads a local, versioned CSV snapshot. Visitors do not trigger web scraping when they open the site.
 
